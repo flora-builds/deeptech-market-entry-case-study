@@ -2,6 +2,8 @@
 
 ### Market-entry exploration, product positioning and operator-led go-to-market recommendations
 
+![Digital Security — Market Readiness and Go-to-Market Strategy](deeptech-market-readiness.png)
+
 *Anonymized case study | February–April 2025 | Marketing & market-entry engagement*
 
 > **The challenge:** A technically sophisticated product for protecting and recovering sensitive digital information needed more than a security narrative to win professional intermediaries. The immediate question was how to translate its architecture into a proposition that legal and wealth-advisory professionals could understand, integrate into their practice and justify commercially.
