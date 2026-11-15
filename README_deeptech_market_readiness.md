@@ -1,6 +1,7 @@
 # Exploring Market Readiness for a Digital Security Product
 
 ### Market-entry exploration, product positioning and operator-led go-to-market recommendations
+Estimated reading time: 4 min
 
 ![Digital Security — Market Readiness and Go-to-Market Strategy](deeptech-market-readiness.png)
 
